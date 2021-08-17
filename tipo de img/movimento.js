@@ -87,6 +87,7 @@ function efect(type, value){
 }
 
 // ------------------------------------------------------------------------------------Microphone
+// ------------------------------------------------------------------------------------ainda não está sendo usado
 
         // more documentation available at
     // https://github.com/tensorflow/tfjs-models/tree/master/speech-commands
